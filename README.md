@@ -6,4 +6,4 @@
  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Findra008&theme=radical&hide_border=true"/><br><br>
 
-<img >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Findra008&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><br><br>
